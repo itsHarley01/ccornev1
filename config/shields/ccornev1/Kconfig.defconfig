@@ -1,0 +1,6 @@
+if SHIELD_CCORNEV1
+
+config ZMK_BOARD_NAME
+    default "corne_left_v1"
+
+endif
