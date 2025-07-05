@@ -1,2 +1,2 @@
-config SHIELD_CCORNEV1
-    def_bool $(shield_list_contains, ccornev1_left)
+config ZMK_SHIELD_CCORNEV1_LEFT
+    bool "ccornev1_left"

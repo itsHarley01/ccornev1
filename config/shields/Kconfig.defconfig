@@ -1,6 +1,6 @@
-if SHIELD_CCORNEV1
+if ZMK_SHIELD_CCORNEV1_LEFT
 
-config ZMK_BOARD_NAME
-    default "corne_left_v1"
+config ZMK_KEYBOARD_NAME
+    default "ccornev1_left"
 
 endif
