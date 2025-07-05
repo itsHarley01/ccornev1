@@ -1,0 +1,2 @@
+config SHIELD_CCORNEV1
+    def_bool $(shield_list_contains, ccornev1_left)
