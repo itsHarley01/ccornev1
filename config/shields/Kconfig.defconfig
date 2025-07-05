@@ -3,4 +3,10 @@ if ZMK_SHIELD_CCORNEV1
 config ZMK_KEYBOARD_NAME
     default "ccornev1"
 
+config ZMK_SPLIT
+    default y
+
+config ZMK_SPLIT_ROLE_CENTRAL
+    default y
+
 endif
